@@ -1,0 +1,28 @@
+name: Clovis Supply Co
+favicon: null
+layout_spectrum: 0.618035877821967
+typography_spectrum: 0.4146908863913268
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.7681599161587656
+  lightness: 0.6660147933289409
+  saturation: 0.03886565216816962
+  rhythmicContrast: 0.3500599793624133
+purpose: []
